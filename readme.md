@@ -2,6 +2,7 @@
 I'm Lesh Lee, majoring in Industrial & Management Engineering at Hanyang University ERICA. 
 
 Interested in ...
+- ES/Javascript
 - Frontend Development (react.js, vue.js)
 - Economics & Politics
 
