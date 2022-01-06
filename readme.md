@@ -2,7 +2,7 @@
 I'm Lesh Lee, majoring in Industrial & Management Engineering at Hanyang University ERICA. 
 
 Interested in ...
-- Infra Engineering (k8s, Docker ... etc)
+- DevOps (k8s, Docker ... etc)
 - ES/Javascript, Typescript, Frontend Development (React.js, Vue.js)
 - Economics & Politics
 
