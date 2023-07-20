@@ -4,7 +4,8 @@ Gradudate Student in Computer Science & Engineering.
 
 I'm interested in  
 - DevOps, kubernetes, Docker  
-- Frontend Development, ES/Javascript, Typescript, React.js, Vue.js  
+- Frontend Development, ES/Javascript, Typescript, React.js, Vue.js
+- Backend Development, Python FastAPI, Node.js
 - Sociology & Economics  
 
 <div align=center>
