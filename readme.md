@@ -3,10 +3,10 @@ Lesh Lee.
 Gradudate Student in Computer Science & Engineering.  
 
 I'm interested in  
+- Backend: Spring, Node.js
 - DevOps, kubernetes, Docker
+- Frontend, Typescript, React.js
 - Blockchain
-- Backend, Python, Node.js
-- Frontend, ES/Javascript, Typescript, React.js, Vue.js
 - Sociology & Economics  
 
 <div align=center>
