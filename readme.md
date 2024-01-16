@@ -1,8 +1,5 @@
 ### 🚀
-Lesh Lee.  
-Gradudate Student in Computer Science & Engineering.  
-
-I'm interested in  
+interested in ...   
 - Backend: Spring, Node.js
 - DevOps, kubernetes, Docker
 - Frontend, Typescript, React.js
