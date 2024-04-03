@@ -1,7 +1,7 @@
 ### 🚀
 interested in ...   
+- DevOps, Container, k8s, Cloud
 - Backend: Spring, Node.js
-- DevOps, kubernetes, Docker
 - Frontend, Typescript, React.js
 - Blockchain
 - Sociology & Economics  
