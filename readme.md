@@ -8,8 +8,8 @@ interested in ...
 
 <div align=center>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Personal%20blog-black?style=flat-square&logo=github&link=https://iamle.sh/)](https://lesh.kr) 
-
 <img src="./cka.png" width="120px" height="120px">
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Personal%20blog-black?style=flat-square&logo=github&link=https://iamle.sh/)](https://lesh.kr) 
 
 </div>
